@@ -14,16 +14,19 @@ z = (x - μ) / (σ / √n)
 """
 
 import numpy as np
-import scipy.stats as stats
 
 weight = np.array([3.142, 3.163, 3.155, 3.150, 3.141])
 
 def confidence_interval(data, confidence=0.95):
-    # Determine the confidence interval estimate of the true weight.
-    #
+    # confidence_interval = margin of error
+    # margin of error = z-score * standard deviation / sqrt(n)
+    # z-score = 1.96 for 95% confidence
+    # z-score = 2.58 for 99% confidence
+    
     mean = np.mean(data)
-    # z-score * standard deviation / sqrt(n)
-    confidence_interval = stats.norm.ppf(1 - (1 - confidence) / 2) * np.std(data) / np.sqrt(len(data))
+    std = 0.1   # standard deviation for population
+    z_score = 1.96 if confidence == 0.95 else 2.58
+    confidence_interval = z_score * std / np.sqrt(len(data))
     confidence_interval_lower = mean - confidence_interval
     confidence_interval_upper = mean + confidence_interval
     
