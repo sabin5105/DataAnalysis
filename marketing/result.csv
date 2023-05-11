@@ -1,0 +1,256 @@
+Subset,classification,K_features
+"('Education',)",0.8367346938775511,1
+"('Marital_Status',)",0.8367346938775511,1
+"('Income',)",0.8367346938775511,1
+"('Kidhome',)",0.8367346938775511,1
+"('Recency',)",0.8367346938775511,1
+"('MntFruits',)",0.8367346938775511,1
+"('MntMeatProducts',)",0.8367346938775511,1
+"('NumWebVisitsMonth',)",0.8367346938775511,1
+"('Education', 'Marital_Status')",0.8367346938775511,2
+"('Education', 'Income')",0.8367346938775511,2
+"('Education', 'Kidhome')",0.8367346938775511,2
+"('Education', 'Recency')",0.8367346938775511,2
+"('Education', 'MntFruits')",0.8367346938775511,2
+"('Education', 'MntMeatProducts')",0.8344671201814059,2
+"('Education', 'NumWebVisitsMonth')",0.8367346938775511,2
+"('Marital_Status', 'Income')",0.8367346938775511,2
+"('Marital_Status', 'Kidhome')",0.8367346938775511,2
+"('Marital_Status', 'Recency')",0.8367346938775511,2
+"('Marital_Status', 'MntFruits')",0.8367346938775511,2
+"('Marital_Status', 'MntMeatProducts')",0.8367346938775511,2
+"('Marital_Status', 'NumWebVisitsMonth')",0.8367346938775511,2
+"('Income', 'Kidhome')",0.8367346938775511,2
+"('Income', 'Recency')",0.8367346938775511,2
+"('Income', 'MntFruits')",0.8344671201814059,2
+"('Income', 'MntMeatProducts')",0.8344671201814059,2
+"('Income', 'NumWebVisitsMonth')",0.8367346938775511,2
+"('Kidhome', 'Recency')",0.8367346938775511,2
+"('Kidhome', 'MntFruits')",0.8367346938775511,2
+"('Kidhome', 'MntMeatProducts')",0.8367346938775511,2
+"('Kidhome', 'NumWebVisitsMonth')",0.8367346938775511,2
+"('Recency', 'MntFruits')",0.8367346938775511,2
+"('Recency', 'MntMeatProducts')",0.8367346938775511,2
+"('Recency', 'NumWebVisitsMonth')",0.8367346938775511,2
+"('MntFruits', 'MntMeatProducts')",0.8367346938775511,2
+"('MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,2
+"('MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,2
+"('Education', 'Marital_Status', 'Income')",0.8367346938775511,3
+"('Education', 'Marital_Status', 'Kidhome')",0.8367346938775511,3
+"('Education', 'Marital_Status', 'Recency')",0.8367346938775511,3
+"('Education', 'Marital_Status', 'MntFruits')",0.8367346938775511,3
+"('Education', 'Marital_Status', 'MntMeatProducts')",0.8367346938775511,3
+"('Education', 'Marital_Status', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Education', 'Income', 'Kidhome')",0.8367346938775511,3
+"('Education', 'Income', 'Recency')",0.8367346938775511,3
+"('Education', 'Income', 'MntFruits')",0.8344671201814059,3
+"('Education', 'Income', 'MntMeatProducts')",0.8321995464852607,3
+"('Education', 'Income', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Education', 'Kidhome', 'Recency')",0.8367346938775511,3
+"('Education', 'Kidhome', 'MntFruits')",0.8367346938775511,3
+"('Education', 'Kidhome', 'MntMeatProducts')",0.8367346938775511,3
+"('Education', 'Kidhome', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Education', 'Recency', 'MntFruits')",0.8367346938775511,3
+"('Education', 'Recency', 'MntMeatProducts')",0.8367346938775511,3
+"('Education', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Education', 'MntFruits', 'MntMeatProducts')",0.8390022675736961,3
+"('Education', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Education', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,3
+"('Marital_Status', 'Income', 'Kidhome')",0.8367346938775511,3
+"('Marital_Status', 'Income', 'Recency')",0.8367346938775511,3
+"('Marital_Status', 'Income', 'MntFruits')",0.8367346938775511,3
+"('Marital_Status', 'Income', 'MntMeatProducts')",0.8344671201814059,3
+"('Marital_Status', 'Income', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Marital_Status', 'Kidhome', 'Recency')",0.8367346938775511,3
+"('Marital_Status', 'Kidhome', 'MntFruits')",0.8367346938775511,3
+"('Marital_Status', 'Kidhome', 'MntMeatProducts')",0.8367346938775511,3
+"('Marital_Status', 'Kidhome', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Marital_Status', 'Recency', 'MntFruits')",0.8367346938775511,3
+"('Marital_Status', 'Recency', 'MntMeatProducts')",0.8367346938775511,3
+"('Marital_Status', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Marital_Status', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,3
+"('Marital_Status', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Marital_Status', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Income', 'Kidhome', 'Recency')",0.8367346938775511,3
+"('Income', 'Kidhome', 'MntFruits')",0.8344671201814059,3
+"('Income', 'Kidhome', 'MntMeatProducts')",0.8321995464852607,3
+"('Income', 'Kidhome', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Income', 'Recency', 'MntFruits')",0.8367346938775511,3
+"('Income', 'Recency', 'MntMeatProducts')",0.8390022675736961,3
+"('Income', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Income', 'MntFruits', 'MntMeatProducts')",0.8344671201814059,3
+"('Income', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Income', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8321995464852607,3
+"('Kidhome', 'Recency', 'MntFruits')",0.8367346938775511,3
+"('Kidhome', 'Recency', 'MntMeatProducts')",0.8367346938775511,3
+"('Kidhome', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Kidhome', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,3
+"('Kidhome', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Kidhome', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Recency', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,3
+"('Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,3
+"('MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8412698412698413,3
+"('Education', 'Marital_Status', 'Income', 'Kidhome')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'Income', 'Recency')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'Income', 'MntFruits')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'Income', 'MntMeatProducts')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'Income', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'Kidhome', 'Recency')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'Kidhome', 'MntFruits')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'Kidhome', 'MntMeatProducts')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'Kidhome', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'Recency', 'MntFruits')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'Recency', 'MntMeatProducts')",0.8344671201814059,4
+"('Education', 'Marital_Status', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Education', 'Marital_Status', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,4
+"('Education', 'Income', 'Kidhome', 'Recency')",0.8367346938775511,4
+"('Education', 'Income', 'Kidhome', 'MntFruits')",0.8344671201814059,4
+"('Education', 'Income', 'Kidhome', 'MntMeatProducts')",0.8321995464852607,4
+"('Education', 'Income', 'Kidhome', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Education', 'Income', 'Recency', 'MntFruits')",0.8367346938775511,4
+"('Education', 'Income', 'Recency', 'MntMeatProducts')",0.8390022675736961,4
+"('Education', 'Income', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Education', 'Income', 'MntFruits', 'MntMeatProducts')",0.8344671201814059,4
+"('Education', 'Income', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Education', 'Income', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8321995464852607,4
+"('Education', 'Kidhome', 'Recency', 'MntFruits')",0.8367346938775511,4
+"('Education', 'Kidhome', 'Recency', 'MntMeatProducts')",0.8367346938775511,4
+"('Education', 'Kidhome', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Education', 'Kidhome', 'MntFruits', 'MntMeatProducts')",0.8390022675736961,4
+"('Education', 'Kidhome', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Education', 'Kidhome', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,4
+"('Education', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,4
+"('Education', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Education', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,4
+"('Education', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Marital_Status', 'Income', 'Kidhome', 'Recency')",0.8367346938775511,4
+"('Marital_Status', 'Income', 'Kidhome', 'MntFruits')",0.8367346938775511,4
+"('Marital_Status', 'Income', 'Kidhome', 'MntMeatProducts')",0.8321995464852607,4
+"('Marital_Status', 'Income', 'Kidhome', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Marital_Status', 'Income', 'Recency', 'MntFruits')",0.8367346938775511,4
+"('Marital_Status', 'Income', 'Recency', 'MntMeatProducts')",0.8390022675736961,4
+"('Marital_Status', 'Income', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Marital_Status', 'Income', 'MntFruits', 'MntMeatProducts')",0.8321995464852607,4
+"('Marital_Status', 'Income', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Marital_Status', 'Income', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8321995464852607,4
+"('Marital_Status', 'Kidhome', 'Recency', 'MntFruits')",0.8367346938775511,4
+"('Marital_Status', 'Kidhome', 'Recency', 'MntMeatProducts')",0.8367346938775511,4
+"('Marital_Status', 'Kidhome', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Marital_Status', 'Kidhome', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,4
+"('Marital_Status', 'Kidhome', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Marital_Status', 'Kidhome', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Marital_Status', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,4
+"('Marital_Status', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Marital_Status', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,4
+"('Marital_Status', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8412698412698413,4
+"('Income', 'Kidhome', 'Recency', 'MntFruits')",0.8367346938775511,4
+"('Income', 'Kidhome', 'Recency', 'MntMeatProducts')",0.8390022675736961,4
+"('Income', 'Kidhome', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Income', 'Kidhome', 'MntFruits', 'MntMeatProducts')",0.8344671201814059,4
+"('Income', 'Kidhome', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Income', 'Kidhome', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8321995464852607,4
+"('Income', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8390022675736961,4
+"('Income', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8390022675736961,4
+"('Income', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,4
+"('Income', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8321995464852607,4
+"('Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,4
+"('Kidhome', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Kidhome', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,4
+"('Kidhome', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,4
+"('Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,4
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'Recency')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'MntFruits')",0.8344671201814059,5
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'MntMeatProducts')",0.8344671201814059,5
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Income', 'Recency', 'MntFruits')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Income', 'Recency', 'MntMeatProducts')",0.8390022675736961,5
+"('Education', 'Marital_Status', 'Income', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Income', 'MntFruits', 'MntMeatProducts')",0.8344671201814059,5
+"('Education', 'Marital_Status', 'Income', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Income', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8299319727891157,5
+"('Education', 'Marital_Status', 'Kidhome', 'Recency', 'MntFruits')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Kidhome', 'Recency', 'MntMeatProducts')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Kidhome', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Kidhome', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Kidhome', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Kidhome', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,5
+"('Education', 'Marital_Status', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,5
+"('Education', 'Marital_Status', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Education', 'Income', 'Kidhome', 'Recency', 'MntFruits')",0.8367346938775511,5
+"('Education', 'Income', 'Kidhome', 'Recency', 'MntMeatProducts')",0.8390022675736961,5
+"('Education', 'Income', 'Kidhome', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Education', 'Income', 'Kidhome', 'MntFruits', 'MntMeatProducts')",0.8344671201814059,5
+"('Education', 'Income', 'Kidhome', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Education', 'Income', 'Kidhome', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8321995464852607,5
+"('Education', 'Income', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8390022675736961,5
+"('Education', 'Income', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8390022675736961,5
+"('Education', 'Income', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,5
+"('Education', 'Income', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,5
+"('Education', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,5
+"('Education', 'Kidhome', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Education', 'Kidhome', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,5
+"('Education', 'Kidhome', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Education', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,5
+"('Marital_Status', 'Income', 'Kidhome', 'Recency', 'MntFruits')",0.8367346938775511,5
+"('Marital_Status', 'Income', 'Kidhome', 'Recency', 'MntMeatProducts')",0.8390022675736961,5
+"('Marital_Status', 'Income', 'Kidhome', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Marital_Status', 'Income', 'Kidhome', 'MntFruits', 'MntMeatProducts')",0.8344671201814059,5
+"('Marital_Status', 'Income', 'Kidhome', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Marital_Status', 'Income', 'Kidhome', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Marital_Status', 'Income', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8435374149659864,5
+"('Marital_Status', 'Income', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8390022675736961,5
+"('Marital_Status', 'Income', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,5
+"('Marital_Status', 'Income', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8321995464852607,5
+"('Marital_Status', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,5
+"('Marital_Status', 'Kidhome', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Marital_Status', 'Kidhome', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,5
+"('Marital_Status', 'Kidhome', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8412698412698413,5
+"('Marital_Status', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,5
+"('Income', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8435374149659864,5
+"('Income', 'Kidhome', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8390022675736961,5
+"('Income', 'Kidhome', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,5
+"('Income', 'Kidhome', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,5
+"('Income', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,5
+"('Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,5
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'Recency', 'MntFruits')",0.8390022675736961,6
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'Recency', 'MntMeatProducts')",0.8390022675736961,6
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'Recency', 'NumWebVisitsMonth')",0.8367346938775511,6
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'MntFruits', 'MntMeatProducts')",0.8344671201814059,6
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,6
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,6
+"('Education', 'Marital_Status', 'Income', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8390022675736961,6
+"('Education', 'Marital_Status', 'Income', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8390022675736961,6
+"('Education', 'Marital_Status', 'Income', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,6
+"('Education', 'Marital_Status', 'Income', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,6
+"('Education', 'Marital_Status', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8367346938775511,6
+"('Education', 'Marital_Status', 'Kidhome', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8367346938775511,6
+"('Education', 'Marital_Status', 'Kidhome', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,6
+"('Education', 'Marital_Status', 'Kidhome', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,6
+"('Education', 'Marital_Status', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,6
+"('Education', 'Income', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8390022675736961,6
+"('Education', 'Income', 'Kidhome', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8390022675736961,6
+"('Education', 'Income', 'Kidhome', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8480725623582767,6
+"('Education', 'Income', 'Kidhome', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,6
+"('Education', 'Income', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,6
+"('Education', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,6
+"('Marital_Status', 'Income', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8412698412698413,6
+"('Marital_Status', 'Income', 'Kidhome', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8390022675736961,6
+"('Marital_Status', 'Income', 'Kidhome', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,6
+"('Marital_Status', 'Income', 'Kidhome', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,6
+"('Marital_Status', 'Income', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8435374149659864,6
+"('Marital_Status', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,6
+"('Income', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8435374149659864,6
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts')",0.8412698412698413,7
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'Recency', 'MntFruits', 'NumWebVisitsMonth')",0.8390022675736961,7
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'Recency', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,7
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8367346938775511,7
+"('Education', 'Marital_Status', 'Income', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8390022675736961,7
+"('Education', 'Marital_Status', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8344671201814059,7
+"('Education', 'Income', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8458049886621315,7
+"('Marital_Status', 'Income', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8435374149659864,7
+"('Education', 'Marital_Status', 'Income', 'Kidhome', 'Recency', 'MntFruits', 'MntMeatProducts', 'NumWebVisitsMonth')",0.8412698412698413,8
